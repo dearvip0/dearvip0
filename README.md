@@ -1,7 +1,9 @@
 # Hi there, I'm Bao Thuong (Victor Vinh) 👋
 
 ## 📋 About Me
+<div>
 I'm a software engineer passionate about building impactful software. I love working with [Technologies] and exploring new tools.
+</div>
 
 ## ⚙️ Tech Stack
 <div align="center">
@@ -11,10 +13,12 @@ I'm a software engineer passionate about building impactful software. I love wor
 <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
 </div>
 <br>
-## Contact
-- LinkedIn
-- Facebook
-- Email
+## 🔗 Contact
+<div align="center">  
+<img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin" alt="linkedin" />
+<img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook" alt="facebook" />
+</div>
+<br>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
