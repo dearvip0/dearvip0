@@ -14,9 +14,13 @@ I'm a software engineer passionate about building impactful software. I love wor
 </div>
 <br>
 ## 🔗 Contact
-<div align="center">  
+<div align="center">
+<a href="https://www.linkedin.com/in/bao-thuong/" target="_blank">
 <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin" alt="linkedin" />
+</a>
+<a href="https://www.facebook.com/Baothuong9608" target="_blank">
 <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook" alt="facebook" />
+</a>
 </div>
 <br>
 
