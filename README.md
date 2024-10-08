@@ -1,5 +1,20 @@
-- 👋 Hi, I’m BaoThuong (@dearvip0)
-- I'm FrontEnd Developer Jr.
+- 👋 Hi, I’m Bao Thuong (Victor Vinh)
+# Hi there, I'm [Bao Thuong] (Victor Vinh) 👋
+
+## About Me
+I'm a software engineer passionate about building impactful software. I love working with [Technologies] and exploring new tools.
+
+## Skills
+!JavaScript
+!TypeScript
+!React
+!Nextjs
+!Node.js
+
+## Contact
+- LinkedIn
+- Twitter
+- Email
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
